@@ -1,0 +1,6 @@
+id=networkengine
+name=Network Engine 🛜
+version=1.0
+versionCode=1
+author=Razal (Razal1_1)
+description=Kernel-level TCP optimization module  that dynamically selects the best available congestion control, configures optimal queue disciplines, applies adaptive buffer scaling for WiFi and mobile networks, and maintains runtime stability through a lightweight self-healing monitoring layer.

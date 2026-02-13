@@ -191,9 +191,9 @@ Independent Developer
 Email: razalrazal759@gmail.com
 
 ---
-
 ## License
 
-This project is licensed under GPLv3.
+This project is licensed under the GNU General Public License v3 (GPLv3).
 
-See the LICENSE file for full terms.
+You are free to use, modify, and redistribute this project under the terms of the GPLv3.
+See the `LICENSE` file for full details.
